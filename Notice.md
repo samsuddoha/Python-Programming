@@ -1,22 +1,21 @@
-*Important Notice for All Students*
+# Important Notice for All Students
 
-Dear Students,
+Here are some important updates and instructions those are required to complete the course:
 
-I hope you are doing well. Here are some important updates and instructions as we conclude the course:
+ **1. End of Classes:**   
+- Your class will be finished by **6 October (Sunday)**.
 
- 1. *End of Classes*:
-- Today was your *last class* for this course. Therefore, there will be *no class next Monday*.
+**2.Final Exam:**
+- The *final exam* will be held on *8th October*. The time and details of the exam will be announced in whatsapp group. Please stay tuned for further updates.
 
-2. *Final Exam*:
-- The *final exam* will be held on *9th October*. The time and details of the exam will be announced later. Please stay tuned for further updates.
+**3.Profile Link Submission:**
+- Many of you have not yet shared your *LinkedIn, GitHub, and freelancing site profile links* in the provided sheet. It is *mandatory* for everyone to submit these links here [Profile Link - Sheet](https://docs.google.com/spreadsheets/d/1C6yQkCd59UDMFOut5EFb3XoDs_LV97rp0GdJM-yCpt0/edit?gid=0#gid=0). Please make sure to fill in the sheet as soon as possible.
 
-3. *Profile Link Submission*:
-- Many of you have not yet shared your *LinkedIn, GitHub, and freelancing site profile links* in the provided sheet. It is *mandatory* for everyone to submit these links. Please make sure to fill in the sheet as soon as possible.
+**4. Final Project:**
+- You need to *select an idea* for your final project. Once you've chosen your idea, please *enter it in the given sheet* [Project Idea](https://docs.google.com/spreadsheets/d/1C6yQkCd59UDMFOut5EFb3XoDs_LV97rp0GdJM-yCpt0/edit?gid=1339576629#gid=1339576629). This step is essential for tracking your project progress.
+- You have to complete your project by *25th October* and submnit your project in githib. We will check it from your github profile.
 
-4. *Final Project*:
-- You need to *select an idea* for your final project. Once you've chosen your idea, please *enter it in the given sheet*. This step is essential for tracking your project progress.
-
-5. *Assignment Submission*:
+**5. Assignment Submission:**
 - The previous *assignment* should now be completed by all students. Please share the *GitHub live link* for your assignment.
 
 6. *Missed Mid-Terms and Quizzes*:
