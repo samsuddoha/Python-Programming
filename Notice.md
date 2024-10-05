@@ -7,6 +7,7 @@ Here are some important updates and instructions those are required to complete 
 
 **2.Final Exam:**
 - The *final exam* will be held on **8th October**. The time and details of the exam will be announced in whatsapp group. Please stay tuned for further updates.
+- See the sample questions from the Final exam folder. [Click Here]()
 
 **3.Profile Link Submission:**
 - Many of you have not yet shared your *LinkedIn, GitHub, and freelancing site profile links* in the provided sheet. It is *mandatory* for everyone to submit these links here [Profile Link - Sheet](https://docs.google.com/spreadsheets/d/1C6yQkCd59UDMFOut5EFb3XoDs_LV97rp0GdJM-yCpt0/edit?gid=0#gid=0). Please make sure to fill in the sheet as soon as possible.
