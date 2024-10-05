@@ -16,13 +16,12 @@ You can choose any project that is suitable for your. Here are few sample ideas.
 - Number Guessing Game
 - Text-Based Adventure Game
 - Contact Book
-Submit your project idea in the following Google Sheet - [Click Here](https://docs.google.com/spreadsheets/d/1C6yQkCd59UDMFOut5EFb3XoDs_LV97rp0GdJM-yCpt0/edit?gid=1339576629#gid=1339576629)
+- Submit your project idea in the following Google Sheet - [Click Here](https://docs.google.com/spreadsheets/d/1C6yQkCd59UDMFOut5EFb3XoDs_LV97rp0GdJM-yCpt0/edit?gid=1339576629#gid=1339576629)
 
 ## 3. Submission Guidelines:
 You have to submit your project in github repository.
 - Create a new repository on GitHub.
-- Submit the *.py* file containing your code.
-- Push your project folder (including your code and README) to the repository.
+- Push your project folder to the repository.
 - Make sure your repository is public.
 - We will check your project from your github profile that you have shared in Google Sheet - [Click Here](https://docs.google.com/spreadsheets/d/1C6yQkCd59UDMFOut5EFb3XoDs_LV97rp0GdJM-yCpt0/edit?gid=0#gid=0).
 
