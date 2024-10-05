@@ -13,10 +13,10 @@ Here are some important updates and instructions those are required to complete 
 
 **4. Final Project:**
 - You need to *select an idea* for your final project. Once you've chosen your idea, please *enter it in the given sheet* [Project Idea](https://docs.google.com/spreadsheets/d/1C6yQkCd59UDMFOut5EFb3XoDs_LV97rp0GdJM-yCpt0/edit?gid=1339576629#gid=1339576629). This step is essential for tracking your project progress.
-- You have to complete your project by *25th October* and submnit your project in github. We will check it from your github profile.
+- You have to complete your project by *25th October* and submnit your project in github. We will check it from your github profile. For more details check **Project folder** and **project.md** file in this repository. 
 
 **5. Assignment Submission:**
-- Submit your assignment by github before final exam.
+- Submit your assignment by github before final exam. For more details check **Assignment folder** and **assignment.md** file in this repository. 
 
 **6. Missed Mid-Terms and Quizzes:**
 - If you *missed the mid-term exam or any quizzes*, please contact us as soon as possible. You will be required to complete the *mid-term and quizzes on the final exam day (8th October)*. This is your last opportunity to make up for any missed assessments.
